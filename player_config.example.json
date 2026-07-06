@@ -1,0 +1,21 @@
+{
+  "midi_dir": "/home/pi5/Desktop/midiMusicFiles",
+  "sound_font": "/usr/share/sounds/sf2/FluidR3_GM.sf2",
+  "real_piano": false,
+  "touchscreen_osk_auto_show": true,
+  "web_host": "0.0.0.0",
+  "web_port": 8000,
+  "audio_sync_arm_delay": 0.18,
+  "master_volume": 100.0,
+  "min_strike_frac": 0.85,
+  "min_refractory_off": 0.075,
+  "physical_lag_skip_enabled": false,
+  "physical_max_event_lag": 0.12,
+  "physical_end_grace": 0.02,
+  "track_volume_strike_floor_frac": 0.25,
+  "track_volume_hold_floor_frac": 0.1,
+  "rush_mode_min_note_duration": 0.018,
+  "rush_mode_bin_seconds": 0.05,
+  "rush_mode_max_notes_per_bin": 8,
+  "rush_mode_max_simultaneous": 12
+}
